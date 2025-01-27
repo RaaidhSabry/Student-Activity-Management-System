@@ -1,0 +1,6 @@
+Seat Number  | Student ID | Student Name         | Module Marks      | Grade       
+--------------------------------------------------------------------------------------------
+1            | w1234567   | Peter                | [45, 21, 40]      | Fail        
+10           | w1234576   | Jack                 | [45, 84, 65]      | Pass        
+99           | w1234665   | Alfred               | [78, 76, 89]      | Distinction 
+100          | w1234666   | Alan                 | [45, 65, 58]      | Pass        
