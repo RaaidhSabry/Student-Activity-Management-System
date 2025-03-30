@@ -37,6 +37,24 @@ cd Student-Activity-Management-System
 ### Run the Application
 Navigate to the output directory and run the main class
 
+--- 
+
+##  📷 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a88be4d2-669f-48c6-9f63-81fcc5855653" alt="Screenshot 1" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/16959b8b-0506-46c7-b936-444b848d182b" alt="Screenshot 2" width="70%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fa576dcd-0470-4577-ae62-18c73d462e76" alt="Screenshot 3" width="70%">
+</p>
+
+---
+
 ## 📖 Usage
 - **Student Registration:**
   - Register new students using the system interface.
